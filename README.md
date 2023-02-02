@@ -5,4 +5,4 @@ I only see my goals, I don't believe in failure.
 ## Sample Code
 `printf('Hello World!');`
 ## How to Install
-- Step 1:Download the zip file or use git done
+- Step 1:Download the zip file or use git clone
